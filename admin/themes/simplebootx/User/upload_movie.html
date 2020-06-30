@@ -1,0 +1,25 @@
+<admintpl file="header" />
+<style>
+	.controls img{
+     max-width:200px;
+ }
+</style>
+</head>
+<body style="padding: 15px;">
+	<form action="/index.php?g=User&m=indexadmin&a=upload_movie&id={$id}" method="post" enctype="multipart/form-data">
+		<if condition="$userinfo['record_video'] neq ''">
+			<video src="{$userinfo['record_video']}" width="300" style="cursor: hand" controls></video>
+			<else/>
+			<p>没有视频</p>
+		</if>
+	    <input type="file" name="file" id="file">
+		<br>
+		<br>
+	    <input type="submit" name="submit" value="上传">
+		<br>
+		<p>{$msg}</p>
+		<br>
+		<a href="/index.php?g=User&m=indexadmin&a=edit&id={$id}">返回用户信息页</a> | <a href="javascript:location.reload()">重新加载</a>
+	</form>
+</body>
+</html>

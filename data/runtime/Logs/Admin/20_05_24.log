@@ -1,0 +1,75 @@
+[ 2020-05-24T11:26:59+08:00 ] 156.96.155.243 /admin/../index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000936s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005638s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000184s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2020-05-24T13:53:54+08:00 ] 35.228.244.119 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000868s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004358s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004388s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2020-05-24T20:02:34+08:00 ] 211.56.145.140 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000936s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004549s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004577s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000374s ]
+

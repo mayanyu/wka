@@ -1,0 +1,299 @@
+﻿body{
+
+}
+a:hover{
+	text-decoration: underline;
+}
+#main .container{
+	width: 1290px;
+	padding: 0;
+	position: relative;
+}
+
+/*----------header----------*/
+#header{
+
+}
+#header .container{
+	width: 1130px;
+}
+#header >.a{
+	background-color: #555555;
+	position: relative;
+	z-index: 1;
+}
+#header >.b{
+	border-bottom: 3px solid #fd5562;
+}
+#header .tops{
+	height: 39px;
+	line-height: 39px;
+}
+#header .tops .l{
+	display: inline-block;
+	display: inline\9;
+	color: #bcbcbc;
+	font-size: 13px;
+	position: relative;
+	cursor: pointer;
+}
+#header .tops .l .dd{
+	display: inline-block;
+	width: 10px;
+	height: 5px;
+	background: url(../images/aw-d1.png);
+	vertical-align: middle;
+}
+#header .tops .l .ex{
+	position: absolute;
+	top: 200px;
+	right: -160px;
+	display: block;
+}
+#header .tops .l:hover .ex{
+	display: block;
+}
+#header .tops .i{
+	display: inline-block;
+	width: 1px;
+	height: 16px;
+	background-color: #999999;
+	vertical-align: text-bottom;
+	margin: 0 5px;
+}
+.user_info{width:279px;height:103px;}
+.avatar{height:86px;width:86px;float:left;margin:10px 0 0 10px}
+.avatar a{height:76px;width:76px;display:inline-block}
+.avatar a img{height:82px;width:82px;border-radius:41px;/*border:2px solid #fff;*/}
+.userinfo{float:left;width:158px;height:76px;margin-left: 20px;margin-top: 10px}
+.userinfo div{width:170px;height:30px;}
+.userinfo   div span{  float: left;margin-left: 10px; margin-top: 10px;font-size: 16px;color:#9e9e9e}
+.userinfo div a {color: #9e9e9e;float: right;margin-right: 13px;margin-top: 10px;cursor: pointer;font-size: 14px}
+.servered p{height:20px;color:#2f2f2f;padding:0px;margin:0px;padding-left:15px;font-size: 14px;}
+.servered{width:248px;height:100px;margin-top:10px}
+.servered ul {width:248px;height:80px;list-style:none;padding:0px;margin:0px}
+.servered ul li{width:248px;height:22px;margin-left: 10px}
+.servered ul li a span{color:#9e9e9e;}
+.servered ul li a img{float:left;height:10px;width:6px;margin-top:5px;margin-left:10px}
+.servered_gamename{ color: #2e8bff;float: left; margin-left: 8px;}
+.servered_sername{color: #949494;float: right;margin-right:10px}
+.userinfo_pay,.userinfo_cent{text-decoration:none;background: #2BB7FF;margin-top:5px;border-radius: 4px;color: white;cursor: pointer;display: inline-block; float: left;margin-left: 5px;text-align: center;width: 65px;padding:3px 0;}
+.userinfo_pay:hover{background: #0095EA}
+.userinfo_cent:hover{background: #0095EA}
+#show_name{    color: #2f2f2f;
+    text-decoration: none;
+    cursor: pointer;
+    width: 150px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline-block;
+    padding-left: 10px;
+    font-size: 16px;}
+#main .ex{
+	position: absolute;
+	top: 60px;
+	right: -5px;
+	display: block;
+	z-index: 99;
+}
+.login{
+	width: 320px;
+	border: 1px solid #c3c3c3;
+	box-shadow: 0 0 6px rgba(108, 108, 108, .3);
+	background-color: rgba(255, 255, 255, 0.8);
+	background: #FFF\9;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=80)"
+}
+.login >.hd{
+	height: 10px;
+	background-color: #fd5562;
+	border-bottom: 1px solid #9b0000;
+}
+.login >.ct{
+	padding: 20px 25px;
+}
+.login .form{
+
+}
+.login .form .p{
+	
+}
+.login .form .p input{
+	width: 100%;
+	border: 1px solid #cccccc;
+	border-radius: 4px;
+	height: 40px;
+	background: none no-repeat 15px 50% #fff;
+	text-indent: 42px;
+	font-size: 16px;
+	color: #000;
+}
+.login .form .p input::-webkit-input-placeholder{
+	color: #b9b9b9;
+}
+.login .form .p input.ico1{
+	background-image: url(../images/login-ico1.png);
+}
+.login .form .p input.ico2{
+	background-image: url(../images/login-ico2.png);
+}
+.login .form .p p{
+	padding: 0 5px;
+	color: #a3a3a3;
+	font-size: 12px;
+	line-height: 1em;
+}
+.login .form .p p a{
+	color: #a3a3a3;
+}
+.login .form .p p .cbox{
+	
+}
+.login .form .p p .cbox i{
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	background-image: url(../images/checkbox.png);
+	vertical-align: middle;
+	margin-right: 5px;
+}
+.login .form .p p .cbox.on i{
+	background-image: url(../images/checkbox-on.png);
+}
+.login .form .p p .bt{
+	display: inline-block;
+	width: 168px;
+	height: 37px;
+	border-radius: 4px;
+	line-height: 37px;
+	text-align: center;
+	color: #fff;
+	background-color: #fd5562;
+	font-size: 16px;
+}
+.login .form .p p .bt:hover{
+	text-decoration: none;
+	opacity: .8;
+}
+#header .logo{
+	padding-top: 36px;
+	float: left;
+}
+#header .menu{
+	padding-top: 36px;
+}
+#header .menu ul{
+
+}
+#header .menu ul li{
+	padding: 0 16px;
+	float: left;
+	position: relative;
+}
+#header .menu ul li:before{
+	content: '';
+	display: inline-block;
+	height: 18px;
+	border-right: 1px dotted #575757;
+	position: absolute;
+	top: 50%;
+	margin-top: -9px;
+	left: 0;
+}
+#header .menu ul li:first-child:before{
+	display: none;
+}
+#header .menu .i{
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	padding: 0 15px;
+	color: #373737;
+	font-size: 15px;
+	position: relative;
+}
+#header .menu .i:hover{
+	text-decoration: none;
+	color: #ff8624;
+}
+#header .menu .i.on{
+	color: #fff;
+	background-color: #ff8624;
+}
+#header .menu .i:after{
+	content: '';
+	display: inline-block;
+	width: 10px;
+	height: 7px;
+	background: url(../images/aw-d2.html);
+	position: absolute;
+	bottom: -7px;
+	left: 50%;
+	margin-left: -5px;
+	display: none;
+}
+#header .menu .i.on:after{
+	display: block;
+}
+#header .word{
+	height: 98px;
+	background: url(../images/div1.html) no-repeat 0 50%;
+	padding-left: 2px;
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+#header .word p{
+	line-height: 98px;
+	color: #585858;
+	font-size: 32px;
+	text-indent: 30px;
+}
+
+
+/*----------main----------*/
+#main{
+
+}
+
+/*----------footer----------*/
+#footer{
+
+}
+#footer >.a{
+	background-color: #f8f8f8;
+}
+#footer >.b{
+	background-color: #555555;
+}
+#footer .info{
+
+}
+#footer .info p{
+	text-align: center;
+	color: #484848;
+}
+#footer .info p.p2{
+	line-height: 25px;
+}
+#footer .link{
+	text-align: center;
+}
+#footer .link img{
+	position: relative;
+	top: -5px;
+}
+#footer .link .ct{
+	display: inline-block;
+	text-align: left;
+	margin-left: 30px;
+}
+#footer .link .ct p{
+	color: #b9b9b9;
+	line-height: 32px;
+}
+#footer .link .ct p a{
+	color: #b9b9b9;
+}
+

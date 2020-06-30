@@ -1,0 +1,25 @@
+<tc_include file="Public:header" />
+<tc_include file="Public:navbar" />
+
+<body class="home-live">
+<div class="mainBox clearfix">
+		<div class="container content">
+				<div class="module-title">
+						<h2><span>观看热门直播</span><br>Watch the popular live broadcast</h2>
+				</div>
+				<div class="row m-list">
+						<volist name="live_show" id="v">
+								<div class="col-md-3 m-item <if condition=" $v['islive'] eq '1'">live live{$v['uid']}
+										<else/>
+										none-live
+										</if>
+										" onclick="window.location.href='./{$v['uid']}';">
+										<div class="item"> <img src="{$v['thumb']}" class="img-fluid">
+												<h5 class="username"> <img src="{$v['thumb']}" class="img-fluid"> {$v['user_nicename']} </h5>
+										</div>
+								</div>
+						</volist>
+				</div>
+		</div>
+</div>
+<tc_include file="Public:footer" />

@@ -1,0 +1,43 @@
+<admintpl file="header" />
+<style>
+	.controls img{
+     max-width:200px;
+ }
+</style>
+</head>
+<body style="padding: 15px;">
+	<form action="/index.php?g=User&m=indexadmin&a=upload_thumb&id={$id}" method="post" enctype="multipart/form-data">
+		<if condition="$userinfo['avatar'] neq ''">
+			<img src="{$userinfo['avatar']}" id="thumb_preview" width="135" style="cursor: hand" />
+			<else />
+			<img src="__TMPL__Public/assets/images/default-thumbnail.png" id="thumb_preview" width="135" style="cursor: hand" />
+		</if>
+	    <input type="file" name="file" id="file">
+		<br>
+		<br>
+	    <input type="submit" name="submit" value="上传">
+		<br>
+		<p>{$msg}</p>
+		<br>
+		<a href="/index.php?g=User&m=indexadmin&a=edit&id={$id}">返回用户信息页</a> | <a href="javascript:location.reload()">重新加载</a>
+		
+	</form>
+	<script>
+		function reback(){
+			var _url_ = "/index.php?g=User&m=indexadmin&a=edit&id={$id}";
+		}
+		
+	</script>
+	<script>
+		(function() {
+			$("#file").on("click", function() {
+				let imgPreviewElement = document.getElementById("thumb_preview");
+				let inputElement = document.getElementById("file");
+				inputElement.addEventListener("change", (e) => {
+					imgPreviewElement.src = URL.createObjectURL(e.target.files[0]);
+				}, false);
+			});
+		})()
+	</script>
+</body>
+</html>

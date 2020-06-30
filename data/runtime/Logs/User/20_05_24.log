@@ -1,0 +1,47 @@
+[ 2020-05-24T13:53:53+08:00 ] 35.228.244.119 /user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000843s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined variable: title /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/b8de15f952856992d8981cdaf9c64af6.php 第 22 行.
+NOTIC: [8] Undefined variable: title /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/b8de15f952856992d8981cdaf9c64af6.php 第 60 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005530s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000145s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000336s ]
+
+[ 2020-05-24T13:53:54+08:00 ] 35.228.244.119 /user/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001305s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001175s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Undefined variable: title /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/19267b554a5496fd86913ea93dcf1fcd.php 第 24 行.
+NOTIC: [8] Undefined property: Tree::$str /www/wwwroot/demo20.nut5g.com/simplewind/Lib/Util/Tree.class.php 第 301 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000365s ]
+

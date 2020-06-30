@@ -1,0 +1,650 @@
+[ 2020-06-13T00:05:20+08:00 ] 69.160.160.56 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001349s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001298s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006371s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006416s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2020-06-13T01:43:53+08:00 ] 47.103.27.160 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000854s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004063s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2020-06-13T03:41:48+08:00 ] 47.102.46.35 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000869s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004106s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000366s ]
+
+[ 2020-06-13T03:49:02+08:00 ] 47.103.21.44 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000915s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004307s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004352s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000336s ]
+
+[ 2020-06-13T03:49:07+08:00 ] 47.103.24.159 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000875s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004123s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004152s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2020-06-13T03:49:16+08:00 ] 47.103.17.157 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000862s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004290s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2020-06-13T09:24:49+08:00 ] 101.133.142.193 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000866s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004198s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2020-06-13T09:53:51+08:00 ] 47.103.24.159 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000879s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2020-06-13T10:14:09+08:00 ] 47.103.20.94 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004646s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2020-06-13T10:18:36+08:00 ] 101.133.130.112 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000925s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004055s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004082s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000365s ]
+
+[ 2020-06-13T10:27:04+08:00 ] 47.102.195.22 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000864s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004089s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004120s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000187s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2020-06-13T18:12:37+08:00 ] 47.103.88.234 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000887s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004238s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2020-06-13T18:31:18+08:00 ] 47.103.157.184 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000892s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004249s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000144s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000368s ]
+
+[ 2020-06-13T18:31:25+08:00 ] 47.103.130.97 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000972s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004380s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004411s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2020-06-13T18:36:22+08:00 ] 101.133.133.220 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001491s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004935s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000163s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2020-06-13T18:38:34+08:00 ] 101.133.129.181 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000860s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004054s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2020-06-13T18:39:31+08:00 ] 47.103.146.21 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000882s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2020-06-13T18:42:47+08:00 ] 47.103.92.127 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000898s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004044s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000337s ]
+
+[ 2020-06-13T19:02:09+08:00 ] 47.103.152.86 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000932s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004368s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004397s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000376s ]
+
+[ 2020-06-13T19:18:25+08:00 ] 47.103.135.203 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2020-06-13T19:19:28+08:00 ] 47.103.134.17 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000942s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001122s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005036s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000524s ]
+
+[ 2020-06-13T19:22:39+08:00 ] 47.103.88.234 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004460s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2020-06-13T19:28:46+08:00 ] 47.101.72.183 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000895s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005025s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2020-06-13T19:31:58+08:00 ] 101.133.137.225 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000911s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004270s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004306s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000157s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000374s ]
+
+[ 2020-06-13T19:33:36+08:00 ] 47.103.79.154 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000873s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004044s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000348s ]
+
+[ 2020-06-13T22:18:00+08:00 ] 113.57.114.102 /index.php?g=admin&m=public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000974s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001282s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Undefined variable: site_name /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 5 行.
+NOTIC: [8] Undefined index: admin_username /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/Admin/17c864e00f937e6528a86826c496ba3b.php 第 103 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004409s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+

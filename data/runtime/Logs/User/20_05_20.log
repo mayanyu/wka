@@ -1,0 +1,50 @@
+[ 2020-05-20T19:36:10+08:00 ] 114.250.16.35 /index.php?g=User&m=Indexadmin&a=index&menuid=134
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.000938s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+NOTIC: [8] Undefined index: iszombie /www/wwwroot/demo20.nut5g.com/application/User/Controller/IndexadminController.class.php 第 143 行.
+NOTIC: [8] Undefined index: isban /www/wwwroot/demo20.nut5g.com/application/User/Controller/IndexadminController.class.php 第 148 行.
+NOTIC: [8] Undefined index: issuper /www/wwwroot/demo20.nut5g.com/application/User/Controller/IndexadminController.class.php 第 153 行.
+NOTIC: [8] Undefined index: ishot /www/wwwroot/demo20.nut5g.com/application/User/Controller/IndexadminController.class.php 第 160 行.
+NOTIC: [8] Undefined index: iszombiep /www/wwwroot/demo20.nut5g.com/application/User/Controller/IndexadminController.class.php 第 165 行.
+NOTIC: [8] Undefined index: start_time /www/wwwroot/demo20.nut5g.com/application/User/Controller/IndexadminController.class.php 第 170 行.
+NOTIC: [8] Undefined index: end_time /www/wwwroot/demo20.nut5g.com/application/User/Controller/IndexadminController.class.php 第 175 行.
+NOTIC: [8] Undefined index: start_time /www/wwwroot/demo20.nut5g.com/application/User/Controller/IndexadminController.class.php 第 179 行.
+NOTIC: [8] Undefined index: keyword /www/wwwroot/demo20.nut5g.com/application/User/Controller/IndexadminController.class.php 第 185 行.
+NOTIC: [8] Undefined variable: pList /www/wwwroot/demo20.nut5g.com/simplewind/Lib/Util/Page.class.php 第 226 行.
+NOTIC: [8] Undefined variable: pListStart /www/wwwroot/demo20.nut5g.com/simplewind/Lib/Util/Page.class.php 第 335 行.
+NOTIC: [8] Undefined variable: pListEnd /www/wwwroot/demo20.nut5g.com/simplewind/Lib/Util/Page.class.php 第 335 行.
+NOTIC: [8] Undefined variable: pFirst /www/wwwroot/demo20.nut5g.com/simplewind/Lib/Util/Page.class.php 第 335 行.
+NOTIC: [8] Undefined variable: pPrev /www/wwwroot/demo20.nut5g.com/simplewind/Lib/Util/Page.class.php 第 335 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Undefined index: iszombie /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/a348394835ede61f1587cc69a78f0b8c.php 第 62 行.
+NOTIC: [8] Undefined index: iszombie /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/a348394835ede61f1587cc69a78f0b8c.php 第 63 行.
+NOTIC: [8] Undefined index: iszombiep /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/a348394835ede61f1587cc69a78f0b8c.php 第 68 行.
+NOTIC: [8] Undefined index: iszombiep /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/a348394835ede61f1587cc69a78f0b8c.php 第 69 行.
+NOTIC: [8] Undefined index: isban /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/a348394835ede61f1587cc69a78f0b8c.php 第 75 行.
+NOTIC: [8] Undefined index: isban /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/a348394835ede61f1587cc69a78f0b8c.php 第 76 行.
+NOTIC: [8] Undefined index: ishot /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/a348394835ede61f1587cc69a78f0b8c.php 第 81 行.
+NOTIC: [8] Undefined index: ishot /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/a348394835ede61f1587cc69a78f0b8c.php 第 82 行.
+NOTIC: [8] Undefined index: issuper /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/a348394835ede61f1587cc69a78f0b8c.php 第 87 行.
+NOTIC: [8] Undefined index: issuper /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/a348394835ede61f1587cc69a78f0b8c.php 第 88 行.
+NOTIC: [8] Undefined index: start_time /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/a348394835ede61f1587cc69a78f0b8c.php 第 91 行.
+NOTIC: [8] Undefined index: end_time /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/a348394835ede61f1587cc69a78f0b8c.php 第 92 行.
+NOTIC: [8] Undefined index: keyword /www/wwwroot/demo20.nut5g.com/data/runtime/Cache/User/a348394835ede61f1587cc69a78f0b8c.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013370s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013423s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: Run Common\Behavior\TmplStripSpaceBehavior [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
