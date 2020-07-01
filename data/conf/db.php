@@ -4,10 +4,10 @@
  */
 return array(
     'DB_TYPE' => 'mysqli',
-    'DB_HOST' => '47.93.137.244',
-    'DB_NAME' => 'zkt_ticket_voucher',
-    'DB_USER' => 't_voucher_rw',
-    'DB_PWD' => 'vk7s9W8J2K27nJS3',
+    'DB_HOST' => '127.0.0.1',
+    'DB_NAME' => 'zkt_myy_ticket_voucher',
+    'DB_USER' => 'mmyt_voucher_rw',
+    'DB_PWD' => 'myyvk7s9W8J2K27nJS3',
     'DB_PORT' => '33061',
     'DB_PREFIX' => 'cmf_',
 						
